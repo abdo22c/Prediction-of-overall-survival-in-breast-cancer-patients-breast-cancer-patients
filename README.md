@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/31886122-bca2-410e-81ef-facdf257fe8c)# Prediction-of-overall-survival-in-breast-cancer-patients-breast-cancer-patients
+# Prediction-of-overall-survival-in-breast-cancer-patients-breast-cancer-patients
 This project aims to build a machine learning model to predict breast cancer patient survival. It includes data cleaning, feature selection, applying algorithms like Random Forest and Gradient Boosting, evaluating performance (AUC, F1-score), and developing a simple clinical interface.
 📦 Installation and Launch
 To run this Streamlit app, make sure you have Python installed. Then, install Streamlit using the following command:
