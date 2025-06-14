@@ -13,3 +13,11 @@ This will launch the application in your default web browser.
 
 ![image](https://github.com/user-attachments/assets/cb3325a6-0f81-49e5-b5f4-93fdd1e54d56)
 
+To run the training and data cleaning code, please make sure to place the dataset file in the same directory as the code files. Then, copy the exact path or filename of the dataset and update the path in the pandas data loading line df = pd.read_csv('/content/dataset.txt', sep='\t')  accordingly before running the scripts.
+
+![image](https://github.com/user-attachments/assets/30ede90a-21e9-4f79-967c-45b0120f3ea4)
+
+Once finished, you can check by running this code.
+
+![image](https://github.com/user-attachments/assets/2ae85619-c166-44e5-abd5-8ec6f99bb799)
+
