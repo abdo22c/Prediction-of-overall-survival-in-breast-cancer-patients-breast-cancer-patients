@@ -3,7 +3,8 @@ This project aims to build a machine learning model to predict breast cancer pat
 📦 Installation and Launch
 To run this Streamlit app, make sure you have Python installed. Then, install Streamlit using the following command:
 
-![image](https://github.com/user-attachments/assets/c04f0c8e-82f5-4934-8158-f689cd483fe7)
+![Capture d'écran 2025-06-14 150426](https://github.com/user-attachments/assets/b4d76ad7-bf07-4634-b3ca-27d316c2170e)
+
 Once installed, open your terminal or command prompt, navigate to the project directory, and run:
 
 ![image](https://github.com/user-attachments/assets/a902005c-5c34-473b-b395-9b12468e7e12)
