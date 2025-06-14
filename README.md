@@ -8,6 +8,8 @@ To run this Streamlit app, make sure you have Python installed. Then, install St
 Once installed, open your terminal or command prompt, navigate to the project directory, and run:
 
 ![image](https://github.com/user-attachments/assets/a902005c-5c34-473b-b395-9b12468e7e12)
+
 This will launch the application in your default web browser.
+
 ![image](https://github.com/user-attachments/assets/cb3325a6-0f81-49e5-b5f4-93fdd1e54d56)
 
